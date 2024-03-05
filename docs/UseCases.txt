@@ -1,0 +1,13 @@
+Identify a video stream
+Track & identify individual football player positions
+Track & identity football
+Identify distance covered
+Identify heat map
+Identify distance covered when ball lost
+Track events - tackle, goad, possession lost, possession gain, penalty, freekick, corner, yellow card, red card, foul, off-side, goal, VAR intervention
+Identify passing patterns
+Identify shot accuracy
+Identify Goal conversion ratio
+Identify Goal probability
+
+Creating Player profile
