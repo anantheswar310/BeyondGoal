@@ -1,0 +1,15 @@
+name: beyond-goal-env
+channels:
+  - defaults
+  - anaconda
+  - conda-forge
+dependencies:
+  - python=3.11.5
+  - pip
+  - pip:
+      - numpy
+      - pandas
+      - ultralytics
+      - kaggle      
+      - onemetric
+prefix: /Users/ananth/anaconda3/envs/beyond-goal-env

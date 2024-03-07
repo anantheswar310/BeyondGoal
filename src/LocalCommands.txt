@@ -1,0 +1,5 @@
+conda create -n beyond-goal-env
+conda activate beyond-goal-env
+
+conda env update -f environment.yml
+conda list --export | grep -v "^\#" > requirements.txt
